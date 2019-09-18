@@ -11,7 +11,7 @@
             $this->provincia=$provincia;
         }
     }
-    $var = new ciudad("Torrente".",","Valencia");
+    $var = new ciudad("Torrente".",","Valencia")
     $var1 = new ciudad("Torrente".",","Valencia");
     $var2 = new ciudad("Torrente".",","Valencia");
 ?>
